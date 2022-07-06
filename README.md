@@ -9,5 +9,5 @@ A Brief Overview of the Classes:
 <li><ins><strong>Position:</strong></ins> a class that represents a position on a chess board, with x & y coordinates, along with a parent attribute. This class acts as the 'node' for the tree in the BFS.
 <br></li>
 <li><ins><strong>KnightTravails:</strong></ins> Class that contains the method 'knight_moves()' used to calculate the shortest path.</li>
-<br><br>
+<br>
 Run main.rb to use the algorithm.
